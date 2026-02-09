@@ -83,13 +83,12 @@ Debugging Hibernate & MySQL errors
 GitHub version control & project structuring
 
 👩‍💻 Author
--Prachi Bane
--Java & Backend Developer
--GitHub: https://github.com/prachi2507
+Prachi Bane
+GitHub: https://github.com/prachi2507
 
 📌 Future Enhancements
 Update ticket status & priority
 Delete ticket
 Pagination & sorting
 User authentication (Spring Security)
-Frontend (React)
+
